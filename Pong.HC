@@ -1,6 +1,7 @@
 // Pong Game with Scoring in TempleOS
 #include "std/Kernel.h"
 
+// dunno if this works, but it seems to be working
 PongGame() {
     const xMax = 80, yMax = 25;
     
