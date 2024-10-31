@@ -21,9 +21,9 @@ If you don’t have TempleOS set up yet, follow these steps:
 
 ### 2. Save the Pong Code in TempleOS
 
-1. Open the editor in TempleOS by pressing `F7` or by typing `Edit` in the command line and pressing `Enter`.
+1. Open the editor in TempleOS.
 2. Copy the Pong game code (from `Pong.HC` provided in this repository) and paste it into the TempleOS editor.
-3. Save the file as `Pong.HC` by pressing `F2`, entering `Pong.HC`, and pressing `Enter`.
+3. Save the file as `Pong.HC`.
 
 ### 3. Run the Game
 
@@ -54,7 +54,6 @@ You can create a shortcut in the TempleOS "Red Sea" menu for easier access to th
    - This line adds a new menu item labeled "Pong Game" to the Red Sea menu. Selecting it will load and run `Pong.HC`.
 
 3. **Save the File**:
-   - Press `F2` to save your changes and exit the editor.
 
 4. **Test the Shortcut**:
    - Reload the Red Sea menu by typing:
